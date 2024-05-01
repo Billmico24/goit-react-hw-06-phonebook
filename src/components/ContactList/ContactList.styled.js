@@ -13,7 +13,7 @@ export const TableHeaders = styled.th`
     text-transform: uppercase;
     border: 1px solid #ddd;
     padding: 12px;
-    background-color: rgba(255,255,255,0.5) ;
+    background-color: rgb(223 46 46 / 50%) ;
 
 `;
 

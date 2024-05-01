@@ -9,8 +9,8 @@ colors: {
     },
 gradients: {
     redSunset: "-webkit-linear-gradient(to right, #355c7d, #6c5b7b, #c06c84)",
-    vanilla: "radial-gradient(circle, rgb(0 0 0), rgb(47 35 39), rgb(5 5 10))",
-    grey: "radial-gradient( circle farthest-corner at 1.3% 2.8%,  rgb(32 17 17) 0%, rgb(22 22 22) 100.2% )",
+    vanilla: "radial-gradient(circle, rgb(173 121 121), rgb(90 60 70), rgb(5 5 10))",
+    grey: "radial-gradient( circle farthest-corner at 1.3% 2.8%, rgb(219 176 176) 0%, rgb(219 110 110) 100.2% )",
 }, 
 filters: {
     shadow: "0px 0.7px 3px rgba(0, 0, 0, 0.32)"

@@ -30,7 +30,7 @@ export const SubmitButton = styled.button`
     font-weight: 700;
     text-transform: uppercase;
     border: none;
-    color: rgb(45, 45, 45);
+    color: #fffff;
     border-radius: 5px;
     box-shadow: ${props => props.theme.filters.shadow};
     background-color: rgb(242, 191, 94, 0);

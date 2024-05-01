@@ -30,7 +30,7 @@ export const App = () => {
           
         </MainContainer>
 
-        {/* налаштування tostify  */}
+        {/* Settings tostify  */}
    <ToastContainer 
             position="top-center"
             autoClose={3000}

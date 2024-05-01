@@ -44,7 +44,7 @@ export function ContactForm() {
                   placeholder="Type name"
                   name="name"
                   pattern="^[a-zA-Zа-яА-Я]+(([' -][a-zA-Zа-яА-Я ])?[a-zA-Zа-яА-Я]*)*$"
-                  title="Name may contain only letters, apostrophe, dash and spaces. For example Adrian, Jacob Mercer, Charles de Batz de Castelmore d'Artagnan"
+                  title="Name may contain only letters, apostrophe, dash and spaces. For example Chris, Toby Maquire, Charles de Batz de Castelmore d'Artagnan"
                   required
       />
       <label htmlFor={formNumberId} >Number</label>
